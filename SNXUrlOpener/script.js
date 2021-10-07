@@ -1,4 +1,4 @@
-const timerIntervalMS = 10000;
+const timerIntervalMS = 1000;
 const closingTimerStartAfterMS = 60000;
 
 const csvFile = document.getElementById("inputGroupFile01");
